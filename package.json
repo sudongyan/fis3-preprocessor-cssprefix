@@ -1,6 +1,6 @@
 {
   "name": "fis3-preprocessor-cssprefix",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "将css文件所在的目录名作为前缀加到class上",
   "main": "index.js",
   "scripts": {
