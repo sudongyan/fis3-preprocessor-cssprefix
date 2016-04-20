@@ -1,0 +1,18 @@
+{
+  "name": "fis3-preprocessor-cssprefix",
+  "version": "0.0.1",
+  "description": "将css文件所在的目录名作为前缀加到class上",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sudongyan/fis3-preprocessor-cssprefix.git"
+  },
+  "keywords": [
+    "fis3"
+  ],
+  "author": "fis",
+  "license": "MIT"
+}
